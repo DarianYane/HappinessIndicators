@@ -1,6 +1,6 @@
 # Happiness Indicators
 
-Through Tableau, I analyzed the reasons that make people happy
+Through Tableau, I analyzed the reasons that make people happy.
 
 
 ## What is the aim of this work?
