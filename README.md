@@ -27,7 +27,7 @@ The dataset used can be found in my repository under the name "Kag_happiness_ind
 4) Compared the different fields with the corresponding number of happy people. In general I did not take absolute numbers because the sample was not uniform, and I used percentages within each sample category.
 5) When analyzing each parameter, I determined if there were relevant differences within the groups that deserved to be discussed later.
 
-### Presentation of results.
+### Presentation of results
 6) Generated several Dashboards to show which were the characteristics of the happiest and unhappiest people.
 
 ## Cuáles son las principales conclusiones del trabajo?
@@ -58,6 +58,10 @@ The dataset used can be found in my repository under the name "Kag_happiness_ind
   - Among the not too happy people, those with the highest income are the smallest group.
   - Pretty happy people occupy the same proportion for each income group.
   - The proportion of very happy people is higher in the highest income group.
+
+<p align="center">
+<a><img src="https://github.com/DarianYane/HappinessIndicators/blob/main/Income%20and%20Guns.jpg" style="width: 836px; height: 400px;"/></a>
+</p>
 
 #### Guns
 - There is a positive relationship between income and gun ownership, although it is not possible to determine which is the cause and which is the consequence. New data are yet to be collected.
