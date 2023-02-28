@@ -86,6 +86,9 @@ The dataset used can be found in my repository under the name "Kag_happiness_ind
  - People who are retired, stay at home, or work full time tend to be happier.
  - The least happy groups are laid-off, unemployed, and temporarily unemployed workers.
 
+<p align="center">
+<a><img src="https://github.com/DarianYane/HappinessIndicators/blob/main/Education%20Working%20Status%20and%20TV%20hours.jpg" style="width: 836px; height: 400px;"/></a>
+</p>
 
 #### Television Hours
 
