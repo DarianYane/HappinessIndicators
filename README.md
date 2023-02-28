@@ -37,6 +37,10 @@ The dataset used can be found in my repository under the name "Kag_happiness_ind
 - Tener hijos adolescentes no modifica el nivel de felicidad.
 - No existe diferencia de felicidad entre mujeres y no mujeres.
 
+<p align="center">
+<a><img src="https://github.com/DarianYane/HappinessIndicators/blob/main/Non-relevant%20variables.jpg" style="width: 836px; height: 400px;"/></a>
+</p>
+
 ## What are the main conclusions of the work?
 ### Irrelevant characteristics
 - The relationship between very happy, pretty happy, and not too happy remains uniform between 1994 and 2006 for the sample (probably from the United States) selected.
@@ -81,6 +85,10 @@ The dataset used can be found in my repository under the name "Kag_happiness_ind
 - Black people are less happy than non-black people.
 - Black women are less happy than non-black women.
 
+<p align="center">
+<a><img src="https://github.com/DarianYane/HappinessIndicators/blob/main/Race%20and%20Gender.jpg" style="width: 836px; height: 400px;"/></a>
+</p>
+
 #### Hijos
 Tener hijos hace más feliz a las personas, sobre todo cuando los niños tienen poca edad.
 - Las personas con 3 o más hijos adolescentes tienden a ser muy felices, o no muy felices. Se observa una tendencia hacia los extremos.
@@ -92,6 +100,10 @@ Having children makes people happier, especially when the children are young.
 - People with 3 or more teenage children tend to be very happy, or not very happy. There is a trend toward extremes.
 - Among people with babies, those with 2 or 3 children are very happy in a higher proportion than the rest.
 - The least happy groups are those with no children.
+
+<p align="center">
+<a><img src="https://github.com/DarianYane/HappinessIndicators/blob/main/Children.jpg" style="width: 836px; height: 400px;"/></a>
+</p>
 
 ## Where can I access the Tableau file? How can I view the complete job?
 
