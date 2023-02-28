@@ -65,9 +65,9 @@ The dataset used can be found in my repository under the name "Kag_happiness_ind
 #### Income
 
 - There is a positive correlation between income and happiness.
-  - Among the not too happy people, those with the highest income are the smallest group.
-  - Pretty happy people occupy the same proportion for each income group.
-  - The proportion of very happy people is higher in the highest income group.
+- Among the not too happy people, those with the highest income are the smallest group.
+- Pretty happy people occupy the same proportion for each income group.
+- The proportion of very happy people is higher in the highest income group.
 
 <p align="center">
 <a><img src="https://github.com/DarianYane/HappinessIndicators/blob/main/Income%20and%20Guns.jpg" style="width: 836px; height: 400px;"/></a>
