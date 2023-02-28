@@ -120,7 +120,7 @@ Having children makes people happier, especially when the children are young.
 
 ## Where can I access the Tableau file? How can I view the complete job?
 
-You can access the public Tableau archive at https://public.tableau.com/views/HappinessIndicators_16772570623250/Kids?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+You can access the public Tableau archive at https://public.tableau.com/app/profile/darian2054/viz/HappinessIndicators_16772570623250/Children
 
 You can also find it in this repository at https://github.com/DarianYane/HappinessIndicators/blob/main/Happiness%20Indicators.twbx
 
