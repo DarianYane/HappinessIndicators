@@ -30,23 +30,16 @@ The dataset used can be found in my repository under the name "Kag_happiness_ind
 ### Presentation of results
 6) Generated several Dashboards to show which were the characteristics of the happiest and unhappiest people.
 
-## Cuáles son las principales conclusiones del trabajo?
-### Caracteristicas irrelevantes
-- La relación entre personas muy felices, algo felices, y no muy felices; se mantiene uniforme entre 1994 y 2006 para la muestra (probablemente de Estados Unidos) seleccionada.
-- Estar divorciado no modifica el nivel de felicidad.
-- Tener hijos adolescentes no modifica el nivel de felicidad.
-- No existe diferencia de felicidad entre mujeres y no mujeres.
-
-<p align="center">
-<a><img src="https://github.com/DarianYane/HappinessIndicators/blob/main/Non-relevant%20variables.jpg" style="width: 836px; height: 400px;"/></a>
-</p>
-
 ## What are the main conclusions of the work?
 ### Irrelevant characteristics
 - The relationship between very happy, pretty happy, and not too happy remains uniform between 1994 and 2006 for the sample (probably from the United States) selected.
 - Being divorced does not change the level of happiness.
 - Having teenage children does not change the level of happiness.
 - There is no difference in happiness between women and non-women.
+
+<p align="center">
+<a><img src="https://github.com/DarianYane/HappinessIndicators/blob/main/Non-relevant%20variables.jpg" style="width: 836px; height: 400px;"/></a>
+</p>
 
 ### Relevant characteristics
 - In general, for all segmentations, the group of "pretty happy" people is between 55% and 59%.
