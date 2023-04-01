@@ -2,6 +2,8 @@
 
 Through Tableau, I analyzed the reasons that make people happy.
 
+This is the first dashboard:
+
 <p align="center">
 <a><img src="https://github.com/DarianYane/HappinessIndicators/blob/main/Dashboard-Happiness1.png" style="width: 836px;"/></a>
 </p>
