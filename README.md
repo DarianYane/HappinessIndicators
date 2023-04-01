@@ -2,6 +2,10 @@
 
 Through Tableau, I analyzed the reasons that make people happy.
 
+<p align="center">
+<a><img src="https://github.com/DarianYane/HappinessIndicators/blob/main/Non-relevant%20variables.jpg" style="width: 836px; height: 400px;"/></a>
+</p>
+
 
 ## What is the aim of this work?
 
